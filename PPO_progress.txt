@@ -1,0 +1,777 @@
+
+
+Iteration: 1
+Model name: PPO_random_100000_model
+Mean reward vs random: 1.30 +/- 20.39026701367319
+Iteration duration 627.3732831478119
+
+Iteration: 2
+Model name: PPO_random_200000_model
+Mean reward vs random: -10.33 +/- 26.79625782331058
+Iteration duration 622.6625368595123
+
+Iteration: 3
+Model name: PPO_random_300000_model
+Mean reward vs random: -6.15 +/- 25.138479579233817
+Iteration duration 624.2098541259766
+
+Iteration: 4
+Model name: PPO_random_400000_model
+Mean reward vs random: 2.06 +/- 19.122144231230973
+Iteration duration 627.3131897449493
+
+Iteration: 5
+Model name: PPO_random_500000_model
+Mean reward vs random: -1.90 +/- 23.22582590326744
+Iteration duration 629.3509147167206
+
+Iteration: 6
+Model name: PPO_random_600000_model
+Mean reward vs random: -0.57 +/- 19.124388152885366
+Iteration duration 630.0648477077484
+
+Iteration: 7
+Model name: PPO_random_700000_model
+Mean reward vs random: 3.63 +/- 16.606443194000196
+Iteration duration 630.0439908504486
+
+Iteration: 8
+Model name: PPO_random_800000_model
+Mean reward vs random: 2.62 +/- 18.62593890250905
+Iteration duration 781.4999370574951
+
+Iteration: 9
+Model name: PPO_random_900000_model
+Mean reward vs random: 6.10 +/- 13.785462955189022
+Iteration duration 785.0806932449341
+
+Iteration: 10
+Model name: PPO_random_1000000_model
+Mean reward vs random: 3.18 +/- 17.608060338631535
+Iteration duration 754.89502120018
+
+Iteration: 11
+Model name: PPO_random_1100000_model
+Mean reward vs random: 4.88 +/- 15.85527637377819
+Iteration duration 812.2346837520599
+
+Iteration: 12
+Model name: PPO_random_1200000_model
+Mean reward vs random: 2.53 +/- 17.691168229750495
+Iteration duration 765.891845703125
+
+Iteration: 13
+Model name: PPO_random_1300000_model
+Mean reward vs random: 4.41 +/- 16.441722334759618
+Iteration duration 679.574300289154
+
+Iteration: 14
+Model name: PPO_random_1400000_model
+Mean reward vs random: 5.04 +/- 15.222034102649427
+Iteration duration 685.386679649353
+
+Iteration: 15
+Model name: PPO_random_1500000_model
+Mean reward vs random: 1.94 +/- 18.496422777271164
+Iteration duration 685.8417987823486
+
+Iteration: 16
+Model name: PPO_random_1600000_model
+Mean reward vs random: 2.38 +/- 18.650463503325827
+Iteration duration 720.7949571609497
+
+Iteration: 17
+Model name: PPO_random_1700000_model
+Mean reward vs random: 4.92 +/- 15.296668119415925
+Iteration duration 787.0615134239197
+
+Iteration: 18
+Model name: PPO_random_1800000_model
+Mean reward vs random: 8.31 +/- 8.891109167152443
+Iteration duration 753.4597012996674
+
+Iteration: 19
+Model name: PPO_random_1900000_model
+Mean reward vs random: 8.74 +/- 7.4881506395103985
+Iteration duration 763.0502355098724
+
+Iteration: 20
+Model name: PPO_random_2000000_model
+Mean reward vs random: 5.67 +/- 14.467875909522215
+Iteration duration 727.1728723049164
+
+Iteration: 21
+Model name: PPO_random_2100000_model
+Mean reward vs random: 8.69 +/- 8.447814312984553
+Iteration duration 719.9620313644409
+
+Iteration: 22
+Model name: PPO_random_2200000_model
+Mean reward vs random: 8.18 +/- 9.80089791804812
+Iteration duration 754.3194649219513
+
+Iteration: 23
+Model name: PPO_random_2300000_model
+Mean reward vs random: 6.59 +/- 13.468034583990182
+Iteration duration 705.297651052475
+
+Iteration: 24
+Model name: PPO_random_2400000_model
+Mean reward vs random: 8.44 +/- 6.691361761422125
+Iteration duration 737.1483018398285
+
+Iteration: 25
+Model name: PPO_random_2500000_model
+Mean reward vs random: 7.15 +/- 11.958894411924355
+Iteration duration 715.1001071929932
+
+Iteration: 26
+Model name: PPO_random_2600000_model
+Mean reward vs random: 6.05 +/- 14.353600013004868
+Iteration duration 693.0852537155151
+
+Iteration: 27
+Model name: PPO_random_2700000_model
+Mean reward vs random: 6.06 +/- 13.220428636520579
+Iteration duration 688.8166449069977
+
+Iteration: 28
+Model name: PPO_random_2800000_model
+Mean reward vs random: 7.38 +/- 11.13529174392042
+Iteration duration 679.0810961723328
+
+Iteration: 29
+Model name: PPO_random_2900000_model
+Mean reward vs random: 4.49 +/- 16.38225360972456
+Iteration duration 668.1395859718323
+
+Iteration: 30
+Model name: PPO_random_3000000_model
+Mean reward vs random: 7.26 +/- 11.944276174525324
+Iteration duration 760.4525282382965
+
+Iteration: 31
+Model name: PPO_random_3100000_model
+Mean reward vs random: 7.90 +/- 10.778017236744224
+Iteration duration 694.3315517902374
+
+Iteration: 32
+Model name: PPO_random_3200000_model
+Mean reward vs random: 8.72 +/- 6.3149390777390355
+Iteration duration 708.448511838913
+
+Iteration: 33
+Model name: PPO_random_3300000_model
+Mean reward vs random: 7.68 +/- 10.24455627801094
+Iteration duration 713.0699393749237
+
+Iteration: 34
+Model name: PPO_random_3400000_model
+Mean reward vs random: 9.54 +/- 3.178846751050869
+Iteration duration 860.3313724994659
+
+Iteration: 35
+Model name: PPO_random_3500000_model
+Mean reward vs random: 8.18 +/- 8.990946681091055
+Iteration duration 850.4186761379242
+
+Iteration: 36
+Model name: PPO_random_3600000_model
+Mean reward vs random: 8.46 +/- 7.8189804677819446
+Iteration duration 709.6832087039948
+
+Iteration: 37
+Model name: PPO_random_3700000_model
+Mean reward vs random: 8.73 +/- 7.484781597051151
+Iteration duration 713.40460729599
+
+Iteration: 38
+Model name: PPO_random_3800000_model
+Mean reward vs random: 8.46 +/- 8.752432042961924
+Iteration duration 711.0231378078461
+
+Iteration: 39
+Model name: PPO_random_3900000_model
+Mean reward vs random: 8.34 +/- 8.80797681397695
+Iteration duration 714.2418608665466
+
+Iteration: 40
+Model name: PPO_random_4000000_model
+Mean reward vs random: 9.62 +/- 2.780695356680891
+Iteration duration 752.7633283138275
+
+Iteration: 41
+Model name: PPO_random_4100000_model
+Mean reward vs random: 8.89 +/- 8.201396222595273
+Iteration duration 676.5869128704071
+
+Iteration: 42
+Model name: PPO_random_4200000_model
+Mean reward vs random: 4.90 +/- 15.793743135248913
+Iteration duration 881.0460920333862
+
+Iteration: 43
+Model name: PPO_random_4300000_model
+Mean reward vs random: 9.41 +/- 3.5376011960398
+Iteration duration 901.2091178894043
+
+Iteration: 44
+Model name: PPO_random_4400000_model
+Mean reward vs random: 8.06 +/- 9.919599566290746
+Iteration duration 895.0295860767365
+
+Iteration: 45
+Model name: PPO_random_4500000_model
+Mean reward vs random: 9.38 +/- 5.257672700180398
+Iteration duration 907.0901291370392
+
+Iteration: 46
+Model name: PPO_random_4600000_model
+Mean reward vs random: 8.97 +/- 5.926152958613951
+Iteration duration 913.0621881484985
+
+Iteration: 47
+Model name: PPO_random_4700000_model
+Mean reward vs random: 6.72 +/- 13.469283574117817
+Iteration duration 911.6082518100739
+
+Iteration: 48
+Model name: PPO_random_4800000_model
+Mean reward vs random: 5.13 +/- 15.725739692901216
+Iteration duration 909.0696892738342
+
+Iteration: 49
+Model name: PPO_random_4900000_model
+Mean reward vs random: 9.39 +/- 3.569587589001782
+Iteration duration 905.0279188156128
+
+Iteration: 50
+Model name: PPO_random_5000000_model
+Mean reward vs random: 7.68 +/- 10.258072701806881
+Iteration duration 909.7885820865631
+
+Iteration: 51
+Model name: PPO_random_5100000_model
+Mean reward vs random: 7.03 +/- 12.046131698138158
+Iteration duration 908.5431151390076
+
+Iteration: 52
+Model name: PPO_random_5200000_model
+Mean reward vs random: 8.31 +/- 8.860712913379675
+Iteration duration 902.08722615242
+
+Iteration: 53
+Model name: PPO_random_5300000_model
+Mean reward vs random: 8.72 +/- 8.493239795403294
+Iteration duration 905.8305802345276
+
+Iteration: 54
+Model name: PPO_random_5400000_model
+Mean reward vs random: 9.39 +/- 5.334524866898228
+Iteration duration 913.4961521625519
+
+Iteration: 55
+Model name: PPO_random_5500000_model
+Mean reward vs random: 7.79 +/- 10.07888662281482
+Iteration duration 907.9873933792114
+
+Iteration: 56
+Model name: PPO_random_5600000_model
+Mean reward vs random: 8.47 +/- 8.769201154545884
+Iteration duration 909.7034344673157
+
+Iteration: 57
+Model name: PPO_random_5700000_model
+Mean reward vs random: 8.45 +/- 7.773191107904141
+Iteration duration 904.5871539115906
+
+Iteration: 58
+Model name: PPO_random_5800000_model
+Mean reward vs random: 9.80 +/- 2.2854612955229268
+Iteration duration 906.3314092159271
+
+Iteration: 59
+Model name: PPO_random_5900000_model
+Mean reward vs random: 7.91 +/- 10.0239291475726
+Iteration duration 907.3228471279144
+
+Iteration: 60
+Model name: PPO_random_6000000_model
+Mean reward vs random: 9.37 +/- 3.6014750064691863
+Iteration duration 910.0674722194672
+
+Iteration: 61
+Model name: PPO_random_6100000_model
+Mean reward vs random: 8.02 +/- 9.964583951843316
+Iteration duration 907.4784986972809
+
+Iteration: 62
+Model name: PPO_random_6200000_model
+Mean reward vs random: 8.71 +/- 7.489830883716045
+Iteration duration 910.1730978488922
+
+Iteration: 63
+Model name: PPO_random_6300000_model
+Mean reward vs random: 8.19 +/- 9.762627720035216
+Iteration duration 910.2838861942291
+
+Iteration: 64
+Model name: PPO_random_6400000_model
+Mean reward vs random: 6.98 +/- 12.077446842036696
+Iteration duration 911.3819725513458
+
+Iteration: 65
+Model name: PPO_random_6500000_model
+Mean reward vs random: 8.69 +/- 7.486607301634625
+Iteration duration 906.2456755638123
+
+Iteration: 66
+Model name: PPO_random_6600000_model
+Mean reward vs random: 8.70 +/- 7.426550717227717
+Iteration duration 911.9304242134094
+
+Iteration: 67
+Model name: PPO_random_6700000_model
+Mean reward vs random: 8.45 +/- 7.62870602104679
+Iteration duration 917.5964288711548
+
+Iteration: 68
+Model name: PPO_random_6800000_model
+Mean reward vs random: 7.79 +/- 10.105145004182548
+Iteration duration 907.6120796203613
+
+Iteration: 69
+Model name: PPO_random_6900000_model
+Mean reward vs random: 9.61 +/- 2.778410816755986
+Iteration duration 911.9599652290344
+
+Iteration: 70
+Model name: PPO_random_7000000_model
+Mean reward vs random: 8.14 +/- 9.846883883860022
+Iteration duration 908.6508846282959
+
+Iteration: 71
+Model name: PPO_random_7100000_model
+Mean reward vs random: 8.04 +/- 9.948382894833824
+Iteration duration 918.9062600135803
+
+Iteration: 72
+Model name: PPO_random_7200000_model
+Mean reward vs random: 8.58 +/- 8.573100696688192
+Iteration duration 919.0797901153564
+
+Iteration: 73
+Model name: PPO_random_7300000_model
+Mean reward vs random: 9.09 +/- 7.061177899850234
+Iteration duration 921.4312047958374
+
+Iteration: 74
+Model name: PPO_random_7400000_model
+Mean reward vs random: 9.21 +/- 5.5546817090530825
+Iteration duration 917.6536388397217
+
+Iteration: 75
+Model name: PPO_random_7500000_model
+Mean reward vs random: 9.89 +/- 1.6321219997972645
+Iteration duration 915.8535571098328
+
+Iteration: 76
+Model name: PPO_random_7600000_model
+Mean reward vs random: 9.37 +/- 5.345461210742769
+Iteration duration 915.876556634903
+
+Iteration: 77
+Model name: PPO_random_7700000_model
+Mean reward vs random: 9.36 +/- 3.5408740289494753
+Iteration duration 919.228244304657
+
+Iteration: 78
+Model name: PPO_random_7800000_model
+Mean reward vs random: 8.70 +/- 7.4877678026676735
+Iteration duration 919.2667016983032
+
+Iteration: 79
+Model name: PPO_random_7900000_model
+Mean reward vs random: 9.64 +/- 4.847644330554334
+Iteration duration 920.4710080623627
+
+Iteration: 80
+Model name: PPO_random_8000000_model
+Mean reward vs random: 8.70 +/- 8.481764098477523
+Iteration duration 920.4349002838135
+
+Iteration: 81
+Model name: PPO_random_8100000_model
+Mean reward vs random: 9.51 +/- 5.0660536909906515
+Iteration duration 920.1856203079224
+
+Iteration: 82
+Model name: PPO_random_8200000_model
+Mean reward vs random: 9.49 +/- 3.208835025709832
+Iteration duration 920.3555314540863
+
+Iteration: 83
+Model name: PPO_random_8300000_model
+Mean reward vs random: 9.48 +/- 5.124885906589098
+Iteration duration 921.7142224311829
+
+Iteration: 84
+Model name: PPO_random_8400000_model
+Mean reward vs random: 8.83 +/- 8.309799436007264
+Iteration duration 921.7818965911865
+
+Iteration: 85
+Model name: PPO_random_8500000_model
+Mean reward vs random: 9.21 +/- 5.601865760619403
+Iteration duration 921.8891499042511
+
+Iteration: 86
+Model name: PPO_random_8600000_model
+Mean reward vs random: 9.49 +/- 3.1675367225793747
+Iteration duration 878.4906499385834
+
+Iteration: 87
+Model name: PPO_random_8700000_model
+Mean reward vs random: 9.50 +/- 5.063924696649165
+Iteration duration 874.996456861496
+
+Iteration: 88
+Model name: PPO_random_8800000_model
+Mean reward vs random: 9.75 +/- 2.2990916080535424
+Iteration duration 883.3706965446472
+
+Iteration: 89
+Model name: PPO_random_8900000_model
+Mean reward vs random: 9.24 +/- 6.801160848626422
+Iteration duration 879.2263464927673
+
+Iteration: 90
+Model name: PPO_random_9000000_model
+Mean reward vs random: 8.71 +/- 7.463080239865217
+Iteration duration 881.526773929596
+
+Iteration: 91
+Model name: PPO_random_9100000_model
+Mean reward vs random: 9.22 +/- 5.543909571172074
+Iteration duration 843.7149119377136
+
+Iteration: 92
+Model name: PPO_random_9200000_model
+Mean reward vs random: 9.09 +/- 6.975372550783379
+Iteration duration 813.4118685722351
+
+Iteration: 93
+Model name: PPO_random_9300000_model
+Mean reward vs random: 8.32 +/- 9.566632404119833
+Iteration duration 853.5710723400116
+
+Iteration: 94
+Model name: PPO_random_9400000_model
+Mean reward vs random: 8.95 +/- 7.1721103356450575
+Iteration duration 872.1650025844574
+
+Iteration: 95
+Model name: PPO_random_9500000_model
+Mean reward vs random: 9.23 +/- 5.474373632358927
+Iteration duration 844.1644551753998
+
+Iteration: 96
+Model name: PPO_random_9600000_model
+Mean reward vs random: 9.62 +/- 2.8038168429640495
+Iteration duration 794.7063484191895
+
+Iteration: 97
+Model name: PPO_random_9700000_model
+Mean reward vs random: 9.50 +/- 3.1488075344309134
+Iteration duration 790.243955373764
+
+Iteration: 98
+Model name: PPO_random_9800000_model
+Mean reward vs random: 9.51 +/- 5.039335273624885
+Iteration duration 805.1835894584656
+
+Iteration: 99
+Model name: PPO_random_9900000_model
+Mean reward vs random: 10.03 +/- 0.14907119849998596
+Iteration duration 798.8504347801208
+Changing opponent from random to min/max agent
+
+Iteration: 2
+Model name: PPO_my_agent_200000_model
+Mean reward vs my_agent: -0.23 +/- 9.72241168069368
+Iteration duration 1856.1235184669495
+
+Iteration: 3
+Model name: PPO_my_agent_300000_model
+Mean reward vs my_agent: -0.48 +/- 9.50444398981632
+Iteration duration 1842.6959447860718
+
+Iteration: 4
+Model name: PPO_my_agent_400000_model
+Mean reward vs my_agent: -9.08 +/- 0.5002665955934562
+Iteration duration 1850.3564298152924
+
+Iteration: 5
+Model name: PPO_my_agent_500000_model
+Mean reward vs my_agent: 5.58 +/- 8.350995283331336
+Iteration duration 1840.6161782741547
+
+Iteration: 6
+Model name: PPO_my_agent_600000_model
+Mean reward vs my_agent: 1.86 +/- 9.77686384617617
+Iteration duration 1862.0285346508026
+
+Iteration: 7
+Model name: PPO_my_agent_700000_model
+Mean reward vs my_agent: 7.07 +/- 7.717519031398627
+Iteration duration 1771.6779112815857
+
+Iteration: 8
+Model name: PPO_my_agent_800000_model
+Mean reward vs my_agent: 0.87 +/- 9.745670833759982
+Iteration duration 1724.9807786941528
+
+Iteration: 9
+Model name: PPO_my_agent_900000_model
+Mean reward vs my_agent: -2.39 +/- 9.061667739562195
+Iteration duration 1728.9284358024597
+
+Iteration: 10
+Model name: PPO_my_agent_1000000_model
+Mean reward vs my_agent: 0.63 +/- 10.134868304795852
+Iteration duration 1765.2494401931763
+
+Iteration: 11
+Model name: PPO_my_agent_1100000_model
+Mean reward vs my_agent: 2.25 +/- 9.352138198769781
+Iteration duration 1829.0368723869324
+
+Iteration: 12
+Model name: PPO_my_agent_1200000_model
+Mean reward vs my_agent: 1.74 +/- 9.020668243293041
+Iteration duration 1788.5482904911041
+
+Iteration: 13
+Model name: PPO_my_agent_1300000_model
+Mean reward vs my_agent: 2.16 +/- 9.707440445349123
+Iteration duration 1777.0542776584625
+
+Iteration: 14
+Model name: PPO_my_agent_1400000_model
+Mean reward vs my_agent: -0.07 +/- 10.340320218553304
+Iteration duration 1796.107739686966
+
+Iteration: 15
+Model name: PPO_my_agent_1500000_model
+Mean reward vs my_agent: 6.24 +/- 8.139348185751048
+Iteration duration 1745.4807465076447
+
+Iteration: 16
+Model name: PPO_my_agent_1600000_model
+Mean reward vs my_agent: 5.16 +/- 8.666821152469277
+Iteration duration 1808.9521570205688
+
+Iteration: 17
+Model name: PPO_my_agent_1700000_model
+Mean reward vs my_agent: 6.54 +/- 7.994184691942568
+Iteration duration 1963.2904124259949
+
+Iteration: 18
+Model name: PPO_my_agent_1800000_model
+Mean reward vs my_agent: -4.98 +/- 8.272218565777864
+Iteration duration 2055.542329788208
+
+Iteration: 19
+Model name: PPO_my_agent_1900000_model
+Mean reward vs my_agent: 5.33 +/- 8.588167570688304
+Iteration duration 2140.322403907776
+
+Iteration: 20
+Model name: PPO_my_agent_2000000_model
+Mean reward vs my_agent: -0.33 +/- 10.135085374852821
+Iteration duration 2070.499554872513
+
+Iteration: 21
+Model name: PPO_my_agent_2100000_model
+Mean reward vs my_agent: 6.06 +/- 8.194163912335549
+Iteration duration 2064.189409971237
+
+Iteration: 22
+Model name: PPO_my_agent_2200000_model
+Mean reward vs my_agent: 5.44 +/- 8.524383979046359
+Iteration duration 2058.9580154418945
+
+Iteration: 23
+Model name: PPO_my_agent_2300000_model
+Mean reward vs my_agent: 6.45 +/- 7.972483232273925
+Iteration duration 2069.1501042842865
+
+Iteration: 24
+Model name: PPO_my_agent_2400000_model
+Mean reward vs my_agent: 5.30 +/- 8.57126983980009
+Iteration duration 2088.01717209816
+
+Iteration: 25
+Model name: PPO_my_agent_2500000_model
+Mean reward vs my_agent: 5.82 +/- 8.336122200000029
+Iteration duration 2074.314030647278
+
+Iteration: 26
+Model name: PPO_my_agent_2600000_model
+Mean reward vs my_agent: -0.00 +/- 9.828274970150607
+Iteration duration 2090.060711145401
+
+Iteration: 27
+Model name: PPO_my_agent_2700000_model
+Mean reward vs my_agent: 5.54 +/- 8.304235197910897
+Iteration duration 2091.1849019527435
+
+Iteration: 28
+Model name: PPO_my_agent_2800000_model
+Mean reward vs my_agent: 4.45 +/- 9.427680284967005
+Iteration duration 2063.1069915294647
+
+Iteration: 29
+Model name: PPO_my_agent_2900000_model
+Mean reward vs my_agent: -0.12 +/- 9.73351883384878
+Iteration duration 2095.794394493103
+
+Iteration: 30
+Model name: PPO_my_agent_3000000_model
+Mean reward vs my_agent: 0.47 +/- 9.607578027554892
+Iteration duration 2075.3435757160187
+
+Iteration: 31
+Model name: PPO_my_agent_3100000_model
+Mean reward vs my_agent: 1.13 +/- 10.121374522376998
+Iteration duration 2072.5882720947266
+
+Iteration: 32
+Model name: PPO_my_agent_3200000_model
+Mean reward vs my_agent: 5.38 +/- 8.506157900146352
+Iteration duration 2144.415240049362
+
+Iteration: 33
+Model name: PPO_my_agent_3300000_model
+Mean reward vs my_agent: 5.17 +/- 8.549266375283647
+Iteration duration 2096.6666276454926
+
+Iteration: 34
+Model name: PPO_my_agent_3400000_model
+Mean reward vs my_agent: 5.93 +/- 7.963464488943657
+Iteration duration 2111.246332883835
+
+Iteration: 35
+Model name: PPO_my_agent_3500000_model
+Mean reward vs my_agent: 1.88 +/- 9.99748912922084
+Iteration duration 2064.190482378006
+
+Iteration: 36
+Model name: PPO_my_agent_3600000_model
+Mean reward vs my_agent: 1.28 +/- 9.858072833977237
+Iteration duration 2097.5944163799286
+
+Iteration: 37
+Model name: PPO_my_agent_3700000_model
+Mean reward vs my_agent: 0.75 +/- 9.885805761573284
+Iteration duration 1778.894603729248
+
+Iteration: 38
+Model name: PPO_my_agent_3800000_model
+Mean reward vs my_agent: 5.53 +/- 8.442090315134571
+Iteration duration 1686.8559963703156
+
+Iteration: 39
+Model name: PPO_my_agent_3900000_model
+Mean reward vs my_agent: 5.24 +/- 8.591991749427034
+Iteration duration 1676.0791273117065
+
+Iteration: 40
+Model name: PPO_my_agent_4000000_model
+Mean reward vs my_agent: 5.45 +/- 8.530601125099892
+Iteration duration 1670.5642430782318
+
+Iteration: 41
+Model name: PPO_my_agent_4100000_model
+Mean reward vs my_agent: 5.44 +/- 8.554051022111622
+Iteration duration 1700.5196509361267
+
+Iteration: 42
+Model name: PPO_my_agent_4200000_model
+Mean reward vs my_agent: 6.47 +/- 7.985033917690436
+Iteration duration 1795.7682211399078
+
+Iteration: 43
+Model name: PPO_my_agent_4300000_model
+Mean reward vs my_agent: 6.68 +/- 8.433520419532204
+Iteration duration 1692.0660672187805
+
+Iteration: 44
+Model name: PPO_my_agent_4400000_model
+Mean reward vs my_agent: 6.53 +/- 8.003471469028645
+Iteration duration 1670.683277130127
+
+Iteration: 45
+Model name: PPO_my_agent_4500000_model
+Mean reward vs my_agent: 5.51 +/- 8.57457222774926
+Iteration duration 1820.9126811027527
+
+Iteration: 46
+Model name: PPO_my_agent_4600000_model
+Mean reward vs my_agent: 6.80 +/- 7.711873241235809
+Iteration duration 2090.253226041794
+
+Iteration: 47
+Model name: PPO_my_agent_4700000_model
+Mean reward vs my_agent: 5.70 +/- 8.236118961959908
+Iteration duration 1831.701360464096
+
+Iteration: 48
+Model name: PPO_my_agent_4800000_model
+Mean reward vs my_agent: 1.25 +/- 9.645162287673315
+Iteration duration 1985.790516614914
+
+Iteration: 49
+Model name: PPO_my_agent_4900000_model
+Mean reward vs my_agent: 1.87 +/- 9.511997687131764
+Iteration duration 1998.040943622589
+
+Iteration: 50
+Model name: PPO_my_agent_5000000_model
+Mean reward vs my_agent: 0.16 +/- 9.631285249412747
+Iteration duration 1825.7755255699158
+
+Iteration: 51
+Model name: PPO_my_agent_5100000_model
+Mean reward vs my_agent: 1.54 +/- 9.988175787177333
+Iteration duration 1832.594966173172
+
+Iteration: 52
+Model name: PPO_my_agent_5200000_model
+Mean reward vs my_agent: -0.29 +/- 12.707764905320245
+Iteration duration 1799.6202857494354
+
+Iteration: 53
+Model name: PPO_my_agent_5300000_model
+Mean reward vs my_agent: 1.61 +/- 9.829816320200948
+Iteration duration 1846.8884851932526
+
+Iteration: 54
+Model name: PPO_my_agent_5400000_model
+Mean reward vs my_agent: 7.91 +/- 7.228274728837826
+Iteration duration 1584.7790939807892
+
+Iteration: 55
+Model name: PPO_my_agent_5500000_model
+Mean reward vs my_agent: 7.37 +/- 7.456860375966998
+Iteration duration 1577.3190143108368
+
+Iteration: 56
+Model name: PPO_my_agent_5600000_model
+Mean reward vs my_agent: 7.95 +/- 6.8578778706600545
+Iteration duration 1698.0417144298553
+
+Iteration: 57
+Model name: PPO_my_agent_5700000_model
+Mean reward vs my_agent: 10.62 +/- 0.41607958640411835
+Iteration duration 1703.1582458019257
